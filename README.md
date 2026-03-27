@@ -58,8 +58,6 @@ npm install
 npm run dev
 ```
 
-The oracle endpoint requires an OpenAI API key. Without it, the app falls back to template-based readings.
+The oracle endpoint requires an OpenAI API key.
 
-## Built by
-
-Made in Fukuoka.
+@bymarselb
